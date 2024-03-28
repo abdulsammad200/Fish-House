@@ -1,0 +1,43 @@
+.nav-hero-sec {
+  height: 650px;
+  width: 100%;
+  /* border: 1px solid black; */
+  background-image: url(https://img.freepik.com/free-photo/high-angle-tableware-arrangement_23-2148930369.jpg?w=996&t=st=1711654368~exp=1711654968~hmac=1c0c922561f6f3fd17ed43f37b145f9736d6905769efeb09ab83bfcf7759da3e);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.nav-bar {
+  height: 120px;
+  width: 100%;
+  /* border: 1px solid black; */
+  margin: auto;
+}
+.img-1 {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+}
+.nav-list {
+  list-style: none;
+}
+.text-1 {
+  font-size: 150px;
+}
+.text-2 {
+  font-size: 30px;
+}
+.btn-div {
+  height: 50px;
+  width: 8%;
+  /* border: 1px solid black; */
+  margin: auto;
+}
+.btn-1 {
+  height: 40px;
+  width: 120px;
+  border: none;
+  border-radius: 5px;
+  background-color: black;
+  color: white;
+}
